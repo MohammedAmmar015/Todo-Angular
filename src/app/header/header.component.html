@@ -1,0 +1,4 @@
+<app-header-button class="top-icon" [class]="'fa-solid fa-bars'"></app-header-button>
+<app-title class="title"></app-title>
+<app-search-bar class="search-bar"></app-search-bar>
+<app-header-button class="top-icon" *ngFor="let icon of icons" [class]=icon></app-header-button>

@@ -1,0 +1,7 @@
+.header {
+    color: white;
+    height: 48px;
+    background-color: #2564cf;
+    width: 100%;
+    display: inline-flex;
+}

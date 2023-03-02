@@ -1,0 +1,7 @@
+.title-header {
+    font-weight: 500;
+}
+
+.title-header:hover {
+    border-bottom: 1.5px solid white;
+}
